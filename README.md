@@ -5,7 +5,7 @@
 
 ## Acerca de este repositorio
 
-Programa creado con **Python**. Es simplemente un **Tic-Tac-Toe** para dos jugadores.  
+Programa creado con **Python**, también hay una versión en **JavaScript**. Es simplemente un **Tic-Tac-Toe** para dos jugadores.  
 Probado con **Windows 10**.
 
 ## Uso
